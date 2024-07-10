@@ -121,11 +121,11 @@ Leveraging AI tools like ChatGPT can significantly enhance your startup’s prod
 
 ## Additional Resources
 
-- **Business Plan Template:** [Download Here](#)
-- **Financial Projection Spreadsheet:** [Download Here](#)
-- **SEO Guide for Beginners:** [Read Here](#)
-- **Social Media Strategy Template:** [Download Here](#)
-- **Marketing Campaign Checklist:** [Download Here](#)
+- **Business Plan Template:** 
+- **Financial Projection Spreadsheet:**
+- **SEO Guide for Beginners:**
+- **Social Media Strategy Template:**
+- **Marketing Campaign Checklist:**
 
 ## Contributing
 
@@ -138,5 +138,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 We hope this guide helps you on your startup journey. Best of luck with your venture!
-
-For any questions or additional support, feel free to contact us at [support@startupresource.com](mailto:support@startupresource.com).

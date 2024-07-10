@@ -1,5 +1,3 @@
-# .github
-
 # Startup Resource
 
 Welcome to Startup Resource! This repository is designed to provide startup founders with comprehensive information and resources on setting up a successful startup. Whether you're launching a new idea or refining an existing one, you'll find valuable guidance on documentation, domain purchasing, website creation, business registration, social media account creation, marketing campaigns, and other essential startup information.
